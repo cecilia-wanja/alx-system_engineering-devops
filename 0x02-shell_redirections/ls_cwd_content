@@ -1,0 +1,16 @@
+total 96
+drwxr-xr-x  15 ceciliawanja  staff  480 Mar  7 20:15 .
+drwxr-xr-x   7 ceciliawanja  staff  224 Mar  7 17:55 ..
+-rwxr-xr-x   1 ceciliawanja  staff   36 Mar  7 18:05 0-hello_world
+-rwxr-xr-x   1 ceciliawanja  staff   28 Mar  7 18:50 1-confused_smiley
+-rwxr-xr-x   1 ceciliawanja  staff   28 Mar  7 18:54 2-hellofile
+-rwxr--r--   1 ceciliawanja  staff   39 Mar  7 19:04 3-twofiles
+-rwxr-xr-x   1 ceciliawanja  staff   35 Mar  7 19:11 4-lastlines
+-rwxr-xr-x   1 ceciliawanja  staff   35 Mar  7 19:18 5-firstlines
+-rwxr-xr-x   1 ceciliawanja  staff   42 Mar  7 19:36 6-third_line
+-rwxr-xr-x   1 ceciliawanja  staff   84 Mar  7 20:08 7-file
+-rwxr-xr-x   1 ceciliawanja  staff   43 Mar  7 20:15 8-cwd_state
+-rw-r--r--   1 ceciliawanja  staff   32 Mar  7 18:02 README.md
+-rw-r--r--   1 ceciliawanja  staff   12 Mar  7 20:08 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 ceciliawanja  staff  801 Mar  7 19:24 iacta
+-rw-r--r--   1 ceciliawanja  staff    0 Mar  7 20:15 ls_cwd_content
